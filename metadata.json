@@ -1,0 +1,5 @@
+{
+  "name": "MediSync Marketplace",
+  "description": "A medical professional marketplace featuring AI-powered specialist matching and Google Calendar scheduling synchronization.",
+  "requestFramePermissions": []
+}
